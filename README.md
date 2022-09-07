@@ -1,4 +1,19 @@
-### Oi 👋
+### Hi 👋
+<div>
+  <h2> 👨‍💻 I'm Marcos and I'm a Front End Developer </h2>
+  <p> Be a developer is my core, but as a creative person I really enjoy to dive in many subjects around it. <br>
+For example, I truly like graphic design and digital marketing too!  </p>
+</div>
+<div>
+  <h2> 👾 Get to know me a little </h2>
+  <ul>
+    <li>I'm Brazilian, it means a native portuguese speaker</li>
+    <li>I've a pretty decent english level</li>
+    <li>I'm a self-taught person </li>
+    <li>I like habit tracker's and the Kanban method </li>
+    <li>I've great facility to express myself</li>
+  </ul>
+</div>
 
 <div align="left">
   <a href="https://github.com/DevMarcosCaio">
