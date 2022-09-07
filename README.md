@@ -22,7 +22,11 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/frontendmarcoscaio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:procurtis@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a> 
+
 </div>
+
+![Snake animation](https://github.com/DevMarcosCaio/DevMarcosCaio/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **DevMarcosCaio/DevMarcosCaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
